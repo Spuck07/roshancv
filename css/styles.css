@@ -1,0 +1,86 @@
+body{
+  background-color: #FEF5ED;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1{
+  color: #66BFBF;
+  font-size:5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #66BFBF;
+  font-size: 1.5rem;
+  font-weight:bold;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 20px;
+  line-height: 1.5;
+}
+/* navbar */
+
+.navbar{
+  padding-top: 0;
+}
+.container-fluid{
+  background-color: #FEF5ED;
+  padding-bottom: 30px;
+}
+.navbar-brand{
+  font-family: "Sacramento";
+  color:  #66BFBF;
+}
+.nav-link{
+  color: #8f8f8f;
+}
+.nav-link:hover{
+  color: #66BFBF;
+}
+
+
+/* description */
+
+.middle-container{
+  padding:70px 50px 80px 50px;
+}
+
+.profile{
+  width: 30%;
+  border-radius: 100%;
+  padding-bottom: 20px;
+}
+.intro{
+  color:  #8f8f8f;
+  margin: auto;
+  width: 50%;
+  line-height: 2;
+}
+/* skills */
+.skills{
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+.my-skills{
+  padding-bottom:60px;
+}
+
+.skill-images{
+  padding-bottom:30px;
+  width: 10%;
+}
+
+
+/* bottom container */
+
+.bottom-container{
+  padding-top: 200px;
+}
+.footer-link{
+  padding:0 60px;
+}
+.copyright{
+  color: #8f8f8f;
+  padding-top: 40px;
+}
